@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-config-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-register-center" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/turing-robot-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wechat-message-service" vcs="Git" />
+  </component>
+</project>
